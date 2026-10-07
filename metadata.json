@@ -1,0 +1,8 @@
+{
+  "name": "IGCSE Algebra Visualizer: Balance & Solve",
+  "description": "Interactive balance scale visualizer for mastering IGCSE 0580 algebraic equations, brackets expansion, and balancing operations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
